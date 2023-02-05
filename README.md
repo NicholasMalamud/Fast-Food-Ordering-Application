@@ -5,3 +5,5 @@ How to use:
 1. setup phpmyadmin on localhost (download xxamp or mamp) 
 2. create new database called "fastfood" and import the fastfood.sql file into it
 3. launch the application with the Fast-Food-Ordering-Application.jar file
+
+Created By: Nicholas Malamud, Ian Murphy and Neelakshi Soni
