@@ -1,5 +1,5 @@
 # Fast-Food-Ordering-Application
-This application simulates a basic fast food ordering kiosk that customers would interact with themselves. Includes a interactive resizeable UI and a database to store menu info and save receipt info.
+This application simulates a basic fast food ordering kiosk. It Includes a interactive resizeable UI and a database to store menu info and save receipt info.
 
 How to use:
 1. setup phpmyadmin on localhost (download xxamp or mamp) 
