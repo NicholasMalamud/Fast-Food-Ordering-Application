@@ -1,4 +1,7 @@
 # Fast-Food-Ordering-Application
+
+View Here: https://nicholasmalamud.github.io/FastFoodOrderingApplication.html
+
 This application simulates a basic fast food ordering kiosk. It Includes a interactive resizeable UI and a database to store menu info and save receipt info.
 
 How to use:
